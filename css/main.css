@@ -1,0 +1,25 @@
+
+nav {
+  margin-left: 100px;
+}
+
+.selection {
+  box-sizing: border-box;
+  border: 2px red;
+  height: 125px;
+}
+
+body {
+  background-image: url('../img/free-nature-stock-OQfuugXSfH0-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content{
+  color: white;
+  background-color: #343a40;
+}
+
+.container {
+  margin-top: 100px;
+}
